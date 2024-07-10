@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatheris1&label=Profile%20views&color=8099ff&style=flat" alt="fatheris1" /> </p>
 
 <h3 align="left">Contacts:</h3>
-<h3 align="left">Discord  .𝗳𝗮𝘁𝗵𝗲𝗿𝗶𝘀</h3>
+<h3 align="left">Discord: .fatheris</h3>
 <p align="left">
 </p>
 
