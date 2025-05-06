@@ -1,5 +1,4 @@
 <h1 align="center">· 👋 ·</h1>
-<h3 align="center">...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatheris1&label=Profile%20views&color=8099ff&style=flat" alt="fatheris1" /> </p>
 
